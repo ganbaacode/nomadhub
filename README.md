@@ -1,0 +1,2 @@
+# nomadhub
+only for nomads
